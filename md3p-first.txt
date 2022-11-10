@@ -1,0 +1,5 @@
+git config --global user.email kodegomd3p.philseong.manabat@gmail.com
+git config --global user.name KodegoPhil
+
+git checkout staging
+[A[A[A[A$ [B[D[D$ [B[D[B[D$ 
